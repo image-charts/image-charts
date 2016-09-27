@@ -55,3 +55,6 @@ https://image-charts.com/chart
 
   <500ms everywhere around the world, 99,99% uptime over the past 3 months
 
+-----------------------------
+
+**[Documentation](https://image-charts.com/documentation)** - **[Website](https://image-charts.com)** 
