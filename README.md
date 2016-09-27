@@ -4,6 +4,8 @@
 
 **[Documentation](https://image-charts.com/documentation)** - **[Website](https://image-charts.com)** 
 
+--------------------------------------------------
+
 ### Image-charts is the [easiest way to embed charts](https://image-charts.com/documentation#getting-started) in **email** or **chat bot**.
 
   No need to setup and develop a complex server-side solution. [One url = one chart](https://image-charts.com/chart?cht=bvs&chs=978x300&chd=t:10,40,60,80,30,20&chf=b0,lg,90,03a9f4,0,3f51b5,1&chxt=x,y&chan).
